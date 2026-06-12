@@ -47,6 +47,10 @@ body {
     margin-top: 30px;
 }
 
+* {
+    scroll-behavior: smooth;
+}
+
 .up_btn .Get {
     background-color: white;
     font-size: 14px;
